@@ -100,7 +100,7 @@ OSI · TCP/IP · SS7 · SIP · RTP · **TurnZero**
 
 ---
 
-*Built by Rajan Sharma · [digitalstaf.com](https://digitalstaf.com) · LinkedIn: [linkedin.com/in/rajan-sharma-6bb36238]*
+*Built by Rajan Sharma · [digitalstaf.com](https://digitalstaf.com) · LinkedIn: [Rajan Sharma](linkedin.com/in/rajan-sharma-6bb36238])*
 
 ## License
 
