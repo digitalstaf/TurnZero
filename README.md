@@ -102,6 +102,4 @@ OSI · TCP/IP · SS7 · SIP · RTP · **TurnZero**
 
 *Built by Rajan Sharma · [digitalstaf.com](https://digitalstaf.com) · LinkedIn: [Rajan Sharma](https://linkedin.com/in/rajan-sharma-6bb36238)*
 
-## License
-
 MIT — see [LICENSE](LICENSE).
